@@ -1,0 +1,133 @@
+FAFcode,CFS12_NAME,OBJECTID
+Albany NY  CFS Area,"Albany-Schenectady, NY CFS Area",1
+Atlanta GA,"Atlanta-Athens-Clarke County-Sandy Springs, GA CFS Area",2
+Austin TX,"Austin-Round Rock, TX CFS Area",3
+Baltimore MD,"Baltimore-Columbia-Towson, MD CFS Area",4
+Baton Rouge LA,"Baton Rouge, LA CFS Area",5
+Beaumont TX,"Beaumont-Port Arthur, TX CFS Area",6
+Birmingham AL,"Birmingham-Hoover-Talladega, AL CFS Area",7
+Boston MA-RI-NH-CT (MA Part),"Boston-Worcester-Providence, MA-RI-NH-CT CFS Area (MA Part)",8
+Boston MA-RI-NH-CT (NH Part),"Boston-Worcester-Providence, MA-RI-NH-CT CFS Area (NH Part)",9
+Boston MA-RI-NH-CT (RI Part),"Boston-Worcester-Providence, MA-RI-NH-CT CFS Area (RI Part)",10
+Buffalo NY  CFS Area,"Buffalo-Cheektowaga, NY CFS Area",11
+Charleston SC,"Charleston-North Charleston-Summerville, SC CFS Area",12
+Charlotte NC-SC (NC Part),"Charlotte-Concord, NC-SC CFS Area (NC Part)",13
+Chicago IL-IN-WI (IL Part),"Chicago-Naperville, IL-IN-WI CFS Area (IL Part)",14
+Chicago IL-IN-WI (IN Part),"Chicago-Naperville, IL-IN-WI CFS Area (IN Part)",15
+Cincinnati OH-KY-IN (KY Part),"Cincinnati-Wilmington-Maysville, OH-KY-IN CFS Area (KY Part)",16
+Cincinnati OH-KY-IN (OH Part),"Cincinnati-Wilmington-Maysville, OH-KY-IN CFS Area (OH Part)",17
+Cleveland OH,"Cleveland-Akron-Canton, OH CFS Area",18
+Columbus OH,"Columbus-Marion-Zanesville, OH CFS Area",19
+Corpus Christi TX,"Corpus Christi-Kingsville-Alice, TX CFS Area",20
+Dallas-Fort Worth TX-OK (TX Part),"Dallas-Fort Worth, TX-OK CFS Area (TX Part)",21
+Dayton OH,"Dayton-Springfield-Sidney, OH CFS Area",22
+Denver CO,"Denver-Aurora, CO CFS Area",23
+Detroit MI,"Detroit-Warren-Ann Arbor, MI CFS Area",24
+El Paso TX-NM (TX Part),"El Paso-Las Cruces, TX-NM CFS Area (TX Part)",25
+Fort Wayne IN,"Fort Wayne-Huntington-Auburn, IN CFS Area",26
+Fresno CA,"Fresno-Madera, CA CFS Area",27
+Grand Rapids MI,"Grand Rapids-Wyoming-Muskegon, MI CFS Area",28
+Greensboro--Winston-Salem--High Point NC,"Greensboro-Winston-Salem-High Point, NC CFS Area",29
+Greenville SC,"Greenville-Spartanburg-Anderson, SC CFS Area",30
+Hartford CT,"Hartford-West Hartford-East Hartford, CT CFS Area",31
+Houston TX,"Houston-The Woodlands, TX CFS Area",32
+Indianapolis IN,"Indianapolis-Carmel-Muncie, IN CFS Area",33
+Jacksonville FL-GA  CFS Area (FL Part),"Jacksonville-St. Marys-Palatka, FL-GA CFS Area (FL Part)",34
+Kansas City MO-KS (KS Part),"Kansas City-Overland Park-Kansas City, MO-KS CFS Area (KS Part)",35
+Kansas City MO-KS (MO Part),"Kansas City-Overland Park-Kansas City, MO-KS CFS Area (MO Part)",36
+Knoxville TN,"Knoxville-Morristown-Sevierville, TN CFS Area",37
+Lake Charles LA,"Lake Charles, LA CFS Area",38
+Laredo TX,"Laredo, TX CFS Area",39
+Las Vegas NV-AZ (NV Part),"Las Vegas-Henderson, NV-AZ CFS Area (NV Part)",40
+Los Angeles CA,"Los Angeles-Long Beach, CA CFS Area",41
+Louisville KY-IN (KY Part),"Louisville/Jefferson County-Elizabethtown-Madison, KY-IN CFS Area (KY Part)",42
+Memphis TN-MS-AR (TN Part),"Memphis, TN-MS-AR CFS Area (TN Part)",43
+Miami FL,"Miami-Fort Lauderdale-Port St. Lucie, FL CFS Area",44
+Milwaukee WI,"Milwaukee-Racine-Waukesha, WI CFS Area",45
+Minneapolis-St. Paul MN-WI (MN Part),"Minneapolis-St. Paul, MN-WI CFS Area (MN Part)",46
+Mobile AL,"Mobile-Daphne-Fairhope, AL CFS Area",47
+Nashville TN,"Nashville-Davidson-Murfreesboro, TN CFS Area",48
+New Orleans LA-MS (LA Part),"New Orleans-Metairie-Hammond, LA-MS CFS Area (LA Part)",49
+New York NY-NJ-CT-PA (CT Part),"New York-Newark, NY-NJ-CT-PA CFS Area (CT Part)",50
+New York NY-NJ-CT-PA (NJ Part),"New York-Newark, NY-NJ-CT-PA CFS Area (NJ Part)",51
+New York NY-NJ-CT-PA (NY Part),"New York-Newark, NY-NJ-CT-PA CFS Area (NY Part)",52
+New York NY-NJ-CT-PA (PA Part),"New York-Newark, NY-NJ-CT-PA CFS Area (PA Part)",53
+Oklahoma City OK,"Oklahoma City-Shawnee, OK CFS Area",54
+Omaha NE-IA (NE Part),"Omaha-Council Bluffs-Fremont, NE-IA CFS Area (NE Part)",55
+Orlando FL,"Orlando-Deltona-Daytona Beach, FL CFS Area",56
+Philadelphia PA-NJ-DE-MD (DE Part),"Philadelphia-Reading-Camden, PA-NJ-DE-MD CFS Area (DE Part)",57
+Philadelphia PA-NJ-DE-MD (NJ Part),"Philadelphia-Reading-Camden, PA-NJ-DE-MD CFS Area (NJ Part)",58
+Philadelphia PA-NJ-DE-MD (PA Part),"Philadelphia-Reading-Camden, PA-NJ-DE-MD CFS Area (PA Part)",59
+Phoenix AZ,"Phoenix-Mesa-Glendale, AZ CFS Area",60
+Pittsburgh PA-OH-WV (PA Part),"Pittsburgh-New Castle-Weirton, PA-OH-WV CFS Area (PA Part)",61
+Portland OR-WA (OR Part),"Portland-Vancouver-Salem, OR-WA CFS Area (OR Part)",62
+Portland OR-WA (WA Part),"Portland-Vancouver-Salem, OR-WA CFS Area (WA Part)",63
+Raleigh-Durham NC,"Raleigh-Durham-Chapel Hill, NC CFS Area",64
+Rest of AL,Remainder of Alabama,65
+Alaska,Remainder of Alaska,66
+Rest of AZ,Remainder of Arizona,67
+Arkansas,Remainder of Arkansas,68
+Rest of CA,Remainder of California,69
+Rest of CO,Remainder of Colorado,70
+Rest of CT,Remainder of Connecticut,71
+Rest of DE,Remainder of Delaware,72
+Rest of FL,Remainder of Florida,73
+Rest of GA,Remainder of Georgia,74
+Rest of HI,Remainder of Hawaii,75
+Idaho,Remainder of Idaho,76
+Rest of IL,Remainder of Illinois,77
+Rest of IN,Remainder of Indiana,78
+Iowa,Remainder of Iowa,79
+Rest of KS,Remainder of Kansas,80
+Rest of KY,Remainder of Kentucky,81
+Rest of LA,Remainder of Louisiana,82
+Maine,Remainder of Maine,83
+Rest of MD,Remainder of Maryland,84
+Rest of MA,Remainder of Massachusetts,85
+Rest of MI,Remainder of Michigan,86
+Rest of MN,Remainder of Minnesota,87
+Mississippi,Remainder of Mississippi,88
+Rest of MO,Remainder of Missouri,89
+Montana,Remainder of Montana,90
+Rest of NE,Remainder of Nebraska,91
+Rest of NV,Remainder of Nevada,92
+Rest of NH,Remainder of New Hampshire,93
+New Mexico,Remainder of New Mexico,94
+Rest of NY,Remainder of New York,95
+Rest of NC,Remainder of North Carolina,96
+North Dakota,Remainder of North Dakota,97
+Rest of OH,Remainder of Ohio,98
+Rest of OK,Remainder of Oklahoma,99
+Rest of OR,Remainder of Oregon,100
+Rest of PA,Remainder of Pennsylvania,101
+Rest of SC,Remainder of South Carolina,102
+South Dakota,Remainder of South Dakota,103
+Rest of TN,Remainder of Tennessee,104
+Rest of TX,Remainder of Texas,105
+Rest of UT,Remainder of Utah,106
+Vermont,Remainder of Vermont,107
+Rest of VA,Remainder of Virginia,108
+Rest of WA,Remainder of Washington,109
+West Virginia,Remainder of West Virginia,110
+Rest of WI,Remainder of Wisconsin,111
+Wyoming,Remainder of Wyoming,112
+Richmond VA,"Richmond, VA CFS Area",113
+Rochester NY,"Rochester-Batavia-Seneca Falls, NY CFS Area",114
+Sacramento CA,"Sacramento-Roseville, CA CFS Area",115
+Salt Lake City UT,"Salt Lake City-Provo-Orem, UT CFS Area",116
+San Antonio TX,"San Antonio-New Braunfels, TX CFS Area",117
+San Diego CA,"San Diego-Carlsbad-San Marcos, CA CFS Area",118
+San Francisco CA,"San Jose-San Francisco-Oakland, CA CFS Area",119
+Savannah GA,"Savannah-Hinesville-Statesboro, GA CFS Area",120
+Seattle WA,"Seattle-Tacoma, WA CFS Area",121
+St. Louis MO-IL (IL Part),"St. Louis-St. Charles-Farmington, MO-IL CFS Area (IL Part)",122
+St. Louis MO-IL (MO Part),"St. Louis-St. Charles-Farmington, MO-IL CFS Area (MO Part)",123
+Tampa FL,"Tampa-St. Petersburg-Clearwater, FL CFS Area",124
+Tucson AZ,"Tucson-Nogales, AZ CFS Area",125
+Tulsa OK,"Tulsa-Muskogee-Bartlesville, OK CFS Area",126
+Honolulu HI,"Urban Honolulu, HI CFS Area",127
+Virginia Beach-Norfolk VA-NC (VA Part),"Virginia Beach-Norfolk, VA-NC CFS Area (VA Part)",128
+Washington DC-VA-MD-WV (DC Part),"Washington-Arlington-Alexandria, DC-VA-MD-WV CFS Area (DC Part)",129
+Washington DC-VA-MD-WV (MD Part),"Washington-Arlington-Alexandria, DC-VA-MD-WV CFS Area (MD Part)",130
+Washington DC-VA-MD-WV (VA Part),"Washington-Arlington-Alexandria, DC-VA-MD-WV CFS Area (VA Part)",131
+Wichita KS,"Wichita-Arkansas City-Winfield, KS CFS Area",132
